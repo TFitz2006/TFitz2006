@@ -1,6 +1,6 @@
 # Thomas Fitzgerald
 
-B.S.E. Computer Science & Engineering (Honors) + Mathematics at The Ohio State University, Class of 2028. I build high-performance systems and quantitative tools — currently a Software Engineer Intern at ECM PCB Stator Technology and a Research Assistant benchmarking clinical vision-language models on OSU's supercomputing cluster. Quantitative Analyst & VP of Internal Affairs at Scarlet Investment Group.
+B.S.E. Computer Science & Engineering (Honors) BA Mathematics at The Ohio State University, Class of 2028. I build high-performance systems and quantitative tools — currently a Software Engineer Intern at ECM PCB Stator Technology and a Research Assistant benchmarking clinical vision-language models on OSU's supercomputing cluster. Quantitative Analyst & VP of Internal Affairs at Scarlet Investment Group.
 
 I'm passionate about AI safety and the responsibility of technology research to help more than it hurts.
 
